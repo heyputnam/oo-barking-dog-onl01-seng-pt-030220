@@ -12,3 +12,5 @@ class Dog
     return @bark
   end
 end
+
+fido = Dog.new('fido')
