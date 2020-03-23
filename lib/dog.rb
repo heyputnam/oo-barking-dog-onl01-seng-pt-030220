@@ -13,4 +13,4 @@ class Dog
   end
 end
 
-fido = Dog.new('fido' =nil)
+fido = Dog.new('fido' nil)
