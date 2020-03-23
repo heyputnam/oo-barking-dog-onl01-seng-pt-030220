@@ -13,7 +13,8 @@ class Dog
   end
 
   def bark
-    print @bark
+    return @bark
+    puts @bark
   end
 
   def bark=(bark)
