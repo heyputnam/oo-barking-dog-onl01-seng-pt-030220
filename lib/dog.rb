@@ -15,4 +15,4 @@ end
 
 
 
-fido = Dog.new('fido', 'woof!' )
+fido = Dog.new
