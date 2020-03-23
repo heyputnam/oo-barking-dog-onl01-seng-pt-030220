@@ -12,7 +12,7 @@ class Dog
     puts @bark
   end
 
-  def 
+  def
 end
 
 fido = Dog.new('fido','woof!')
