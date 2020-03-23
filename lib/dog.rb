@@ -4,13 +4,3 @@ class Dog
     @bark = bark
   end
 
-  def name
-    puts @name
-  end
-
-  def bark
-    puts @bark
-  end
-end
-
-fido = Dog.new('fido', 'woof!' )
