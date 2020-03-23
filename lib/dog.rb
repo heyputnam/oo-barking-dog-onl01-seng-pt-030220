@@ -12,6 +12,3 @@ class Dog
     return @bark
   end
 end
-
-
-
