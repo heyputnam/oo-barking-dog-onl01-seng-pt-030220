@@ -6,14 +6,13 @@ class Dog(name)
     @name = name
   end
 
-  def bark 
+  def bark
     @bark = 'woof!'
   end
-  
+
 
 end
 
 
 
 fido = Dog.new('fido')
-
